@@ -3,4 +3,4 @@
 
 B Graham Resume Sept 2021 Rev 1.0
 
-This is a condensed version of my patest resume.
+This is a condensed version of my latest resume.
